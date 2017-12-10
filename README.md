@@ -7,6 +7,7 @@
 ``` bash
 # install dependencies
 npm install
+npm install vue2-google-map
 
 # serve with hot reload at localhost:8080
 npm run dev
